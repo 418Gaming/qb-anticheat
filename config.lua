@@ -1,11 +1,11 @@
 Config = {}
 
 -- Set how many flags will result in a ban --
-Config.FlagsForBan = 5
+Config.FlagsForBan = 10
 
 -- Set values for flags -- 
 Config.SuperJumpLength = 20.0
-Config.MaxSpeed = 13 
+Config.MaxSpeed = 13
 
 Config.Antiresourcestop = true
 
